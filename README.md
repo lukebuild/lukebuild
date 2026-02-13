@@ -23,7 +23,7 @@
 ### 🚀 The "Cozy" Tool Collection
 Current status of my indie projects.
 
-| 🖱️ **MouseTester** | ⌨️ **KeyboardTest** | 🎮 **ControllerTest** |
+| 🖱️ **MouseTester.io** | ⌨️ **KeyboardTest.io** | 🎮 **ControllerTest.io** |
 | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> |
 | **Polling Rate & Stutter**<br>Professional visualization for mouse sensors. | **Ghosting & NKRO**<br>Full mechanical keyboard testing suite. | **Drift & Vibration**<br>Test gamepads, joysticks & triggers. |
