@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <a href="https://x.com/lukeiodev">
+    <a href="https://x.com/lukebuild">
       <img src="https://img.shields.io/badge/(Twitter)-@lukeiodev-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
   </p>
