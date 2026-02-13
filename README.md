@@ -26,7 +26,7 @@ Current status of my indie projects.
 | 🖱️ **MouseTester** | ⌨️ **KeyboardTest** | 🎮 **ControllerTest** |
 | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> |
-| **Polling Rate & Stutter**<br>Professional visualization for mouse sensors.<br>*(React)* | **Ghosting & NKRO**<br>Full mechanical keyboard testing suite.<br>*(React)* | **Drift & Vibration**<br>Test gamepads, joysticks & triggers.<br>*(Astro)* |
+| **Polling Rate & Stutter**<br>Professional visualization for mouse sensors. | **Ghosting & NKRO**<br>Full mechanical keyboard testing suite. | **Drift & Vibration**<br>Test gamepads, joysticks & triggers. |
 | [**✨ Launch App »**](https://mousetester.io) | [**✨ Launch App »**](https://keyboardtest.io) | [**✨ Launch App »**](https://controllertest.io) |
 
 </div>
