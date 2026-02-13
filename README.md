@@ -5,13 +5,13 @@
 
   <p>
     <strong>Indie Developer. 🛠️</strong><br/>
-    I build lightweight, privacy-first hardware testing tools.<br/>
-    No installs. No drivers. Just open the URL and test.
+    I build lightweight, privacy-first <strong>web utilities</strong> designed for simplicity.<br/>
+    From hardware testing to productivity. No installs. Just open and use.
   </p>
 
   <p>
-    <a href="https://twitter.com/lukeiodev">
-      <img src="https://img.shields.io/badge/-Follow_Me-black?style=for-the-badge&logo=x&logoColor=white" />
+    <a href="https://x.com/lukeiodev">
+      <img src="https://img.shields.io/badge/X_(Twitter)-@lukeiodev-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
   </p>
 </div>
@@ -20,8 +20,8 @@
 
 <div align="center">
 
-### 🚀 The "Cozy" Hardware Suite
-Current status of my launched tools.
+### 🚀 The "Cozy" Tool Collection
+Current status of my indie projects.
 
 | 🖱️ **MouseTester** | ⌨️ **KeyboardTest** | 🎮 **ControllerTest** |
 | :---: | :---: | :---: |
