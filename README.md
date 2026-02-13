@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35495E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Luke.;I+Build+Cozy+Web+Tools.;React+%2B+Astro+Developer." alt="Typing SVG" />
+  </a>
 
-<!--
-**lukebuild/lukebuild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <strong>Indie Developer. 🛠️</strong><br/>
+    I build lightweight, privacy-first hardware testing tools.<br/>
+    No installs. No drivers. Just open the URL and test.
+  </p>
 
-Here are some ideas to get you started:
+  <p>
+    <a href="https://twitter.com/lukeiodev">
+      <img src="https://img.shields.io/badge/-Follow_Me-black?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<div align="center">
+
+### 🚀 The "Cozy" Hardware Suite
+Current status of my launched tools.
+
+| 🖱️ **MouseTester** | ⌨️ **KeyboardTest** | 🎮 **ControllerTest** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> |
+| **Polling Rate & Stutter**<br>Professional visualization for mouse sensors.<br>*(React)* | **Ghosting & NKRO**<br>Full mechanical keyboard testing suite.<br>*(React)* | **Drift & Vibration**<br>Test gamepads, joysticks & triggers.<br>*(Astro)* |
+| [**✨ Launch App »**](https://mousetester.io) | [**✨ Launch App »**](https://keyboardtest.io) | [**✨ Launch App »**](https://controllertest.io) |
+
+</div>
+
+<br />
+
+<div align="center">
+
+### 🛠️ Built With
+I use modern web technologies to build fast, static, and privacy-focused applications.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
+
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <sub>© 2026 LukeBuild. All rights reserved.</sub>
+</div>
