@@ -11,7 +11,7 @@
 
   <p>
     <a href="https://x.com/lukebuild">
-      <img src="https://img.shields.io/badge/(Twitter)-@lukeiodev-000000?style=for-the-badge&logo=x&logoColor=white" />
+      <img src="https://img.shields.io/badge/(Twitter)-@lukebuild-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
   </p>
 </div>
