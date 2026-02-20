@@ -9,11 +9,7 @@
     Focused on performance and distraction-free experiences.
   </p>
 
-  <p>
-    <a href="https://x.com/lukebuild">
-      <img src="https://img.shields.io/badge/(Twitter)-@lukebuild-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
-  </p>
+
 </div>
 
 <br />
@@ -21,26 +17,13 @@
 <div align="center">
 
 ### 🖥️ Featured macOS App
-The first member of the **LuxStack** ecosystem.
+
 
 | 📸 **LuxShot** |
 | :---: |
 | <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> |
 | **Minimalist macOS OCR**<br>Native, privacy-focused text recognition for your menu bar. |
 | [**✨ View on GitHub »**](https://github.com/lukebuild/LuxShot) |
-
-<br />
-
-### 🚀 Web Tool Collection
-Handy online utilities for hardware testing.
-
-| 🖱️ **MouseTester.io** | ⌨️ **KeyboardTest.io** | 🎮 **ControllerTest.io** |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-Live_🟢-success?style=flat-square" /> |
-| **Polling Rate & Stutter**<br>Professional mouse sensor testing. | **Ghosting & NKRO**<br>Mechanical keyboard suite. | **Drift & Vibration**<br>Gamepad & joystick tester. |
-| [**Launch App »**](https://mousetester.io) | [**Launch App »**](https://keyboardtest.io) | [**Launch App »**](https://controllertest.io) |
-
-</div>
 
 <br />
 
